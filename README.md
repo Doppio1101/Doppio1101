@@ -30,4 +30,4 @@
 
 
 
-[![JungHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doppio1101&show_icons=true&theme=synthwave)](
+[![JungHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doppio1101&show_icons=true&theme=synthwave)](https://github.com/Doppio1101/github-readme-stats)
