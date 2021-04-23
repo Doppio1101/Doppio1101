@@ -8,10 +8,10 @@
 
 > AI활용 지능형 서비스 개발
 
-- Java - https://github.com/Doppio1101/mc_JavaStudy
+- [Java](https://github.com/Doppio1101/mc_JavaStudy)
   - With SQL from day 13
 
-- SQL - https://github.com/Doppio1101/mc_SQLStudy
+- [SQL](https://github.com/Doppio1101/mc_SQLStudy)
 
 
 
@@ -23,10 +23,10 @@
 >
 > At the time, I didn't know how to create a folder.
 
-- SongLim 		  - https://github.com/Doppio1101/SongLim 
-- SongLimJS        - https://github.com/Doppio1101/SongLimJS
-- SongLimHTML - https://github.com/Doppio1101/SongLimHTML
-- SongLimImg     - https://github.com/Doppio1101/SongLim_Reagent
+- [SongLim](https://github.com/Doppio1101/SongLim) 
+- [SongLimJS](https://github.com/Doppio1101/SongLimJS)
+- [SongLimHTML](https://github.com/Doppio1101/SongLimHTML)
+- [SongLimImg](https://github.com/Doppio1101/SongLim_Reagent)
 
 
 
