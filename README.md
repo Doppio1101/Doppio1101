@@ -26,6 +26,7 @@
 - [jQuery~](https://github.com/Doppio1101/mc_JavaStudy/tree/master/web_week5_student/src/main/webapp/day20)
 
 
+- [MVC Pattern(Servlet Start)~](https://github.com/Doppio1101/mc_JavaStudy/tree/master/web_week5_student/src/main/java/mc/sn/servlet)
 
 #### SongLim
 
