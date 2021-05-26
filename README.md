@@ -30,6 +30,14 @@
 
 - [Spring CRUD](https://github.com/Doppio1101/mc_JavaStudy/tree/master/spring_crud)
 
+
+#### TIL
+
+- [Python](https://github.com/Doppio1101/TIL)
+
+- [JavaScript](https://github.com/Doppio1101/TIL)
+
+
 #### SongLim
 
 > I did a project with Python. 
