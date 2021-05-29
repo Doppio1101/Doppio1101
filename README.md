@@ -30,6 +30,7 @@
 
 - [Spring CRUD](https://github.com/Doppio1101/mc_JavaStudy/tree/master/spring_crud)
 
+- [Python](https://github.com/Doppio1101/mc_Python)
 
 #### TIL
 
