@@ -35,7 +35,7 @@
 - [Python](https://github.com/Doppio1101/mc_Python)
 
 
-- [CLOVA](https://github.com/Doppio1101/Clova_API)
+- [CLOVA_API](https://github.com/Doppio1101/Clova_API)
 
 #### TIL
 
