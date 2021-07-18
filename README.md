@@ -54,7 +54,7 @@
 
 > SSAFY TIL
 
-- [TIL] (https://github.com/Doppio1101/BAEKJOON_TIL)
+- [TIL](https://github.com/Doppio1101/BAEKJOON_TIL)
 
 #### SongLim
 
