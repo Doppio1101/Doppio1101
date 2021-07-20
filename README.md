@@ -5,6 +5,14 @@
 [TISTORY]( coding-friend.tistory.com)
 
 
+#### SSAFY STUDY TIL
+
+> SSAFY TIL
+
+- [TIL](https://github.com/Doppio1101/BAEKJOON_TIL)
+
+------------------------------
+
 #### MultiCampus
 
 > AI활용 지능형 서비스 개발
@@ -41,6 +49,10 @@
 
 - [Project](https://github.com/Doppio1101/backupMyPart)
 
+
+------------------------------------------
+
+
 #### TIL
 
 > Today I Learned
@@ -50,11 +62,8 @@
 - [JavaScript](https://github.com/Doppio1101/TIL)
 
 
-#### SSAFY STUDY TIL
+---------------------
 
-> SSAFY TIL
-
-- [TIL](https://github.com/Doppio1101/BAEKJOON_TIL)
 
 #### SongLim
 
