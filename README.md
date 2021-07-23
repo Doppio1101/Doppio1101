@@ -5,13 +5,23 @@
 [TISTORY]( coding-friend.tistory.com)
 
 
-#### SSAFY STUDY TIL
+#### SSAFY TIL
 
 > SSAFY TIL
 
 - [TIL](https://github.com/Doppio1101/BAEKJOON_TIL)
 
 ------------------------------
+
+
+#### SSAFY STUDY
+
+> SSAFY STUDY
+
+- [STUDY](https://github.com/tomy9729/TargetIsPlatinum5)
+
+------------------------------
+
 
 #### MultiCampus
 
