@@ -10,7 +10,6 @@
 > SSAFY TIL
 
 - [TIL](https://github.com/Doppio1101/BAEKJOON_TIL)
-
 ------------------------------
 
 
@@ -19,7 +18,6 @@
 > SSAFY STUDY
 
 - [STUDY](https://github.com/tomy9729/TargetIsPlatinum5)
-
 ------------------------------
 
 
