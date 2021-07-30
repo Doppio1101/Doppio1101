@@ -97,4 +97,4 @@
 
 [![JungHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doppio1101&show_icons=true&theme=synthwave)](https://github.com/Doppio1101)
 
-[![](https://lab.ssafy.com/chlj1101/Project_Java_JangJungHun_KimKyeongMin/-/raw/master/result/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-07-30%20202026.png)]
+[![실행결과 확인](https://lab.ssafy.com/chlj1101/Project_Java_JangJungHun_KimKyeongMin/-/raw/master/result/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-07-30%20202026.png)]
