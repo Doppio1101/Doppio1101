@@ -18,6 +18,11 @@
 > SSAFY STUDY
 
 - [STUDY](https://github.com/tomy9729/TargetIsPlatinum5)
+
+#### Mini_PJT
+
+- [FrontEnd_PJT](https://github.com/Doppio1101/PJT)
+
 ------------------------------
 
 
