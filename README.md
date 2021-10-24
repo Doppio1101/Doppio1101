@@ -21,7 +21,7 @@
 
 #### Mini_PJT
 
-- [FrontEnd_PJT](https://github.com/Doppio1101/PJT)
+- [WEB_PJT](https://github.com/Doppio1101/PJT)
 
 ------------------------------
 
