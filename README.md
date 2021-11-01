@@ -30,31 +30,7 @@
 
 > AI활용 지능형 서비스 개발
 
-- [Java](https://github.com/Doppio1101/mc_JavaStudy)
-  - With SQL from day 13
-
-- [SQL](https://github.com/Doppio1101/mc_SQLStudy)
-
-
-- [HTML~](https://github.com/Doppio1101/mc_JavaStudy/tree/master/web_week4_student/src/main/webapp/chapter_2)
-
-
-- [CSS~](https://github.com/Doppio1101/mc_JavaStudy/tree/master/web_week4_student/src/main/webapp/chapter_4)
-
-
-- [JS~](https://github.com/Doppio1101/mc_JavaStudy/tree/master/web_week5_student/src/main/webapp/day19)
-
-
-- [jQuery~](https://github.com/Doppio1101/mc_JavaStudy/tree/master/web_week5_student/src/main/webapp/day20)
-
-
-- [MVC Pattern(Servlet Start)~](https://github.com/Doppio1101/mc_JavaStudy/tree/master/web_week5_student/src/main/java/mc/sn/servlet)
-
-
-- [Spring CRUD](https://github.com/Doppio1101/mc_JavaStudy/tree/master/spring_crud)
-
-
-- [Python](https://github.com/Doppio1101/mc_Python)
+- [MultiCampus](https://github.com/Doppio1101/mc_JavaStudy)
 
 
 - [CLOVA_API](https://github.com/Doppio1101/Clova_API)
